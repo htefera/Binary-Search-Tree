@@ -1,4 +1,4 @@
-### 1. Binary-Search-Tree Implementation
+### 1. Binary Search Tree Implementation
 The problem is decompposed intothe following set of functions:-
 
 * **addElem**: add an object to binary search tree based on its magnitude
