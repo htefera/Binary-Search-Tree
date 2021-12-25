@@ -20,7 +20,7 @@ inside the secantMethod function
 secantMethod and secantStream methods
 * **findRoot(Double,Double,fx)**:function to compute root of a function according to secant
 method formula . This function calculates only one root value which is the x2 from x0 and
-* **secantStream(Double,Double, Double=>Double)*:Stream[Double]: Function that computes a
+* **secantStream(Double,Double, Double=>Double)**:Stream[Double]: Function that computes a
 stream for a given input
 * **secantMethod(Double,Double,Double=>Double,ep)**: a function that computes the successive
 stream values till the convergence of the function is satisfied.
